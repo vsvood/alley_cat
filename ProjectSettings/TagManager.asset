@@ -6,6 +6,7 @@ TagManager:
   tags:
   - killer
   - prize
+  - ground
   layers:
   - Default
   - TransparentFX
